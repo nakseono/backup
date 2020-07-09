@@ -49,5 +49,5 @@ iTerm2 테마 : Brogrammer & 맥 외부 모니터 강제 RGB 모드 설정 파�
   3. 만들어진 폴더는 기본적으로 read-only라서 write 권한이 있어야 옮길 수 있다. 터미널에서 ``` sudo mount -uw / ``` 입력.<br/><br/>
   4. 그 후 만들어진 폴더를 Overrides 에다가 집어넣는다.
   이때 터미널 명령어는 ``` sudo mv DisplayVendorID-* /System/Library/Displays/Contents/Resources/Overrides ``` 정도가 되겠다.<br/><br/>
-  5. 이후 재부팅하면 적용 되어있음.
+  5. 이후 재부팅하면 적용 되어있음. <br/>
   참고 : https://www.hahwul.com/2020/03/how-to-solv-purple-external-display-on-mac.html

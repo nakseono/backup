@@ -30,7 +30,7 @@
   - [ ] Bracket Pair Colorizer 2
   - [ ] Color Highlight
   - [ ] CSS Peek
-  - [ ] ESLint
+  - [ ] ESLint - + naver에서 작성한 ESLint or Airbnb ESLint 적용
   - [ ] Material Icon
   - [ ] Material Theme
   - [ ] Path Intellisense
